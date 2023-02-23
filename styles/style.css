@@ -2,9 +2,9 @@
 @import url("curriculo.css");
 
 :root {
-  --preto: #000000;
-  --branco: #f6f6f6;
-  --azul: #22d4fd;
+  --preto: #0D0D0D;
+  --branco: #E9E9F2;
+  --azul: #5C82F2;
   --cinza: #272727;
 }
 * {
